@@ -158,4 +158,3 @@ The Streamlit app accepts all diamond characteristics and returns an estimated p
 | Visualisation     | `matplotlib`, `seaborn`                        |
 
 ---
-"# diamond-prices-predictor" 
